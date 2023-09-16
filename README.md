@@ -26,3 +26,5 @@ The software is open-source and is coded in French, maybe I will do an english v
 This readme doesn't need more, goodbye!
 
 And don't forget, made by Kami!
+
+(and pls don't steal the code..)
