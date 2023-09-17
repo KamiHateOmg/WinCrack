@@ -1,36 +1,3 @@
-::[Bat To Exe Converter]
-::
-::YAwzoRdxOk+EWAnk
-::fBw5plQjdG8=
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSDk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpCI=
-::egkzugNsPRvcWATEpCI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZkoaHUrTXA==
-::ZQ05rAF9IBncCkqN+0xwdVsFAlXMbSXrZg==
-::ZQ05rAF9IAHYFVzEqQI4LQJNLA==
-::eg0/rx1wNQPfEVWB+kM9LVsJDAyHJXLa
-::fBEirQZwNQPfEVWB+kM9LVsJDAyHJXLa
-::cRolqwZ3JBvQF1fEqQI4LQJNLA==
-::dhA7uBVwLU+EWFGB8VspSA==
-::YQ03rBFzNR3SWATE/EcpMXs=
-::dhAmsQZ3MwfNWATE/Ec1MQI0
-::ZQ0/vhVqMQ3MEVWAtB9wIB5NVWQ=
-::Zg8zqx1/OA3MEVWAtB9wIB5RSR2bXA==
-::dhA7pRFwIByZRRme8FgqSA==
-::Zh4grVQjdCyDJGyX8VAjFAhbTQqPAES0A5EO4f7+08iSsEgcQd48ao7Y0aOHLvIS+HnwcIU5xXNdloUJFB44
-::YB416Ek+ZW8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 :: //////////////////////////////////////////////////////////////////////////////
 ::Code by Kami (osintpro on discord)
 ::09/16/2023
