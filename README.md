@@ -1,10 +1,11 @@
 # WinCrack
 
-# OUTDATED : UPDATE SOON
 ### What is it?
 WinCrack is a free script to simply crack [get the prenium license] WinRAR.
 
 ## Installation
+
+(PyPi soon.)
 
 ___Install WinCrack___
 
